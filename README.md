@@ -1,3 +1,6 @@
 # appjs
 Readme for the repo
-Contains tutorial for node js.
+Contains nodejs tutorial.
+--------------------------------------------------------
+--------------------------------------------------------
+Contains 2 projects on node js.
